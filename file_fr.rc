@@ -1,6 +1,0 @@
-STRINGTABLE
-BEGIN
-myPrefix_one_1 "un"
-myPrefix_two_2 "deux"
-myPrefix_three_3 "trois"
-END
