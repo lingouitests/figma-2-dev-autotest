@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
-
+  <data name="myPrefix_onemixed_1">
+    <value><![CDATA[one-mixed translated]]></value>
+  </data>
+  <data name="myPrefix_twomixed_2">
+    <value><![CDATA[two-mixed-non-translated]]></value>
+  </data>
+  <data name="myPrefix_threemix_3">
+    <value><![CDATA[three-mixed non translated]]></value>
+  </data>
+  <data name="myPrefix_fourmixe_4">
+    <value><![CDATA[four-mixed-translated]]></value>
+  </data>
+  <data name="myPrefix_fivemixe_5">
+    <value><![CDATA[five mixed translated]]></value>
+  </data>
+  <data name="myPrefix_sixmixed_6">
+    <value><![CDATA[six mixed outstanding]]></value>
+  </data>
 </root>
