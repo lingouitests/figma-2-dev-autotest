@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
-
+  <data name="myPrefix_nontrans_1">
+    <value><![CDATA[non-translated one]]></value>
+  </data>
+  <data name="myPrefix_nontrans_2">
+    <value><![CDATA[non-translated two]]></value>
+  </data>
+  <data name="myPrefix_nontrans_3">
+    <value><![CDATA[non-translated three]]></value>
+  </data>
 </root>
