@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-  <string translatable="true" name="myPrefix_one_1"><![CDATA[one]]></string>
-  <string translatable="true" name="myPrefix_two_2"><![CDATA[two]]></string>
-  <string translatable="true" name="myPrefix_three_3"><![CDATA[three]]></string>
+
 </resources>
