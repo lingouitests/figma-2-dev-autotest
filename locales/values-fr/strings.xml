@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="myPrefix_onemixed_1" translatable="true"><![CDATA[traduit en un seul exemplaire]]></string>
+  <string name="myPrefix_fourmixe_4" translatable="true"><![CDATA[traduit en quatre versions mixtes]]></string>
+  <string name="myPrefix_fivemixe_5" translatable="true"><![CDATA[cinq traductions mixtes]]></string>
+</resources>

@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-
+  <string name="myPrefix_onemixed_1" translatable="true"><![CDATA[one-mixed translated]]></string>
+  <string name="myPrefix_twomixed_2" translatable="true"><![CDATA[two-mixed-non-translated]]></string>
+  <string name="myPrefix_threemix_3" translatable="true"><![CDATA[three-mixed non translated]]></string>
+  <string name="myPrefix_fourmixe_4" translatable="true"><![CDATA[four-mixed-translated]]></string>
+  <string name="myPrefix_fivemixe_5" translatable="true"><![CDATA[five mixed translated]]></string>
+  <string name="myPrefix_sixmixed_6" translatable="true"><![CDATA[six mixed outstanding]]></string>
 </resources>
