@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+msgid "myPrefix_one_1"
+msgstr "un"
+msgid "myPrefix_two_2"
+msgstr "deux"
+msgid "myPrefix_three_3"
+msgstr "trois"
