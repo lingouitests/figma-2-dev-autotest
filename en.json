@@ -1,5 +1,8 @@
 {
   "myPrefix_one_1": "one",
   "myPrefix_two_2": "two",
-  "myPrefix_three_3": "three"
+  "myPrefix_three_3": "three",
+  "myPrefix_nontrans_1": "non-translated one",
+  "myPrefix_nontrans_2": "non-translated two",
+  "myPrefix_nontrans_3": "non-translated three"
 }
