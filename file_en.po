@@ -1,8 +1,0 @@
-msgid ""
-msgstr ""
-msgid "myPrefix_one_1"
-msgstr "one"
-msgid "myPrefix_two_2"
-msgstr "two"
-msgid "myPrefix_three_3"
-msgstr "three"
