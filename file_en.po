@@ -1,1 +1,8 @@
-
+msgid ""
+msgstr ""
+msgid "myPrefix_nontrans_1"
+msgstr "non-translated one"
+msgid "myPrefix_nontrans_2"
+msgstr "non-translated two"
+msgid "myPrefix_nontrans_3"
+msgstr "non-translated three"
