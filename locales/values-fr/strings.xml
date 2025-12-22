@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="myPrefix_one_1" translatable="true"><![CDATA[un]]></string>
+  <string name="myPrefix_two_2" translatable="true"><![CDATA[deux]]></string>
+  <string name="myPrefix_three_3" translatable="true"><![CDATA[trois]]></string>
+</resources>
