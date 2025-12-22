@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-  <string name="myPrefix_onemixed_1" translatable="true"><![CDATA[traduit en un seul exemplaire]]></string>
-  <string name="myPrefix_fourmixe_4" translatable="true"><![CDATA[traduit en quatre versions mixtes]]></string>
-  <string name="myPrefix_fivemixe_5" translatable="true"><![CDATA[cinq traductions mixtes]]></string>
+  <string translatable="true" name="myPrefix_onemixed_1"><![CDATA[traduit en un seul exemplaire]]></string>
+  <string translatable="true" name="myPrefix_fourmixe_4"><![CDATA[traduit en quatre versions mixtes]]></string>
+  <string translatable="true" name="myPrefix_fivemixe_5"><![CDATA[cinq traductions mixtes]]></string>
 </resources>
