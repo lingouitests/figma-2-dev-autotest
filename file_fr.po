@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+msgid "myPrefix_onemixed_1"
+msgstr "traduit en un seul exemplaire"
+msgid "myPrefix_fourmixe_4"
+msgstr "traduit en quatre versions mixtes"
+msgid "myPrefix_fivemixe_5"
+msgstr "cinq traductions mixtes"
